@@ -1,0 +1,11 @@
+*{
+    margin: auto;
+    content: normal;
+    contain: content;
+    width: auto;
+    height: auto;
+    padding: initial;
+}
+img{
+    overflow: visible;
+}
